@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm J1XT3R, a backend & frontend programmer, and web designer based in California.
+
+I work on whatever ideas pop into my head.
+
+
 <!--
 **J1XT3R/J1XT3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
